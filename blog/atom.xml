@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://skaldarnar.github.io/TutorialWorldGeneration/blog</id>
+    <id>https://skaldarnar.github.io/blog</id>
     <title>World Generation Tutorial Blog</title>
     <updated>2015-10-25T23:29:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://skaldarnar.github.io/TutorialWorldGeneration/blog"/>
+    <link rel="alternate" href="https://skaldarnar.github.io/blog"/>
     <subtitle>World Generation Tutorial Blog</subtitle>
-    <icon>https://skaldarnar.github.io/TutorialWorldGeneration/img/favicon.ico</icon>
+    <icon>https://skaldarnar.github.io/img/favicon.ico</icon>
 </feed>
